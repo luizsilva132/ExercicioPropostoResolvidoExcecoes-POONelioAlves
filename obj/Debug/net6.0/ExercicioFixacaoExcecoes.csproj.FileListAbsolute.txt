@@ -1,0 +1,15 @@
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\bin\Debug\net6.0\ExercicioFixacaoExcecoes.exe
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\bin\Debug\net6.0\ExercicioFixacaoExcecoes.deps.json
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\bin\Debug\net6.0\ExercicioFixacaoExcecoes.runtimeconfig.json
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\bin\Debug\net6.0\ExercicioFixacaoExcecoes.dll
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\bin\Debug\net6.0\ExercicioFixacaoExcecoes.pdb
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.csproj.AssemblyReference.cache
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.AssemblyInfoInputs.cache
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.AssemblyInfo.cs
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.dll
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\refint\ExercicioFixacaoExcecoes.dll
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.pdb
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ExercicioFixacaoExcecoes.genruntimeconfig.cache
+C:\Users\rikki\OneDrive\Documentos\Curso Nélio C# COMPLETO Programação Orientada a Objetos + Projetos\projetos\ExercicioFixacaoExcecoes\obj\Debug\net6.0\ref\ExercicioFixacaoExcecoes.dll
